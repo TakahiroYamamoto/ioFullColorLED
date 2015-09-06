@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2A1DBE51-CB16-487B-A400-6D4120D040F9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ioFullColorLED</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9171A1D543375AAAE5E66EE986085D0951B00ECA</key>
+		<string>https://github.com/TakahiroYamamoto/ioFullColorLED.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ioFullColorLED/ioFullColorLED.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9171A1D543375AAAE5E66EE986085D0951B00ECA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/TakahiroYamamoto/ioFullColorLED.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9171A1D543375AAAE5E66EE986085D0951B00ECA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9171A1D543375AAAE5E66EE986085D0951B00ECA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ioFullColorLED</string>
+		</dict>
+	</array>
+</dict>
+</plist>
