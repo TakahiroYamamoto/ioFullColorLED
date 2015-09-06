@@ -50,7 +50,7 @@ Pod::Spec.new do |s|
   #  accepts just a name if you'd rather not provide an email address.
   #
   #  Specify a social_media_url where others can refer to, for example a twitter
-  #  profile URL.
+  #  profile URL.”
   #
 
   s.author             = { "山本　恭大" => "hogazurou_0225@yahoo.co.jp" }
@@ -90,7 +90,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "ioFullColorLED/*.Swift"
+  s.source_files  = "ioFullColorLED/ioFullColorLED/*.{swift}"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
@@ -100,7 +100,7 @@ Pod::Spec.new do |s|
   #
   #  A list of resources included with the Pod. These are copied into the
   #  target bundle with a build phase script. Anything else will be cleaned.
-  #  You can preserve files from being cleaned, please don't preserve
+  #  You can preserve files from being cleaned, please don't preserve'
   #  non-essential files like tests, examples and documentation.
   #
 
