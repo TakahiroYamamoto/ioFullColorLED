@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/yamamoto/Documents/Xcode/ioFullColorLED/ioFullColorLED/Build/Products/Debug-iphoneos/ioFullColorLED.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ioFullColorLED-Swift.h",
+          'external-contents': "/Users/yamamoto/Documents/Xcode/ioFullColorLED/ioFullColorLED/Build/Products/Debug-iphoneos/ioFullColorLED.framework/Headers/ioFullColorLED-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ioFullColorLED.h",
+          'external-contents': "/Users/yamamoto/Documents/Xcode/ioFullColorLED/ioFullColorLED/ioFullColorLED/ioFullColorLED.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/yamamoto/Documents/Xcode/ioFullColorLED/ioFullColorLED/Build/Products/Debug-iphoneos/ioFullColorLED.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/yamamoto/Documents/Xcode/ioFullColorLED/ioFullColorLED/Build/Intermediates/ioFullColorLED.build/Debug-iphoneos/ioFullColorLED.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

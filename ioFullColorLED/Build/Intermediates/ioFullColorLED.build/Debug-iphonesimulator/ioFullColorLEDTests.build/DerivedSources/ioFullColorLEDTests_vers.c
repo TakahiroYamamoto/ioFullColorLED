@@ -1,0 +1,1 @@
+ const unsigned char ioFullColorLEDTestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:ioFullColorLEDTests  PROJECT:ioFullColorLED-1" "\n"; const double ioFullColorLEDTestsVersionNumber __attribute__ ((used)) = (double)1.;

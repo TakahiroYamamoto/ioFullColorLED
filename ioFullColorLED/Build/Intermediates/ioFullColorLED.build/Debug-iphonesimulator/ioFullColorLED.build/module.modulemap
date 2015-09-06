@@ -1,0 +1,10 @@
+framework module ioFullColorLED {
+  umbrella header "ioFullColorLED.h"
+
+  export *
+  module * { export * }
+}
+
+module ioFullColorLED.Swift {
+    header "ioFullColorLED-Swift.h"
+}

@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "dc4fdf7369f9a31970ce06e0ba98a86f"
+inputs: 
+- "/Users/yamamoto/Documents/Xcode/ioFullColorLED/ioFullColorLED/ioFullColorLEDTests/ioFullColorLEDTests.swift"

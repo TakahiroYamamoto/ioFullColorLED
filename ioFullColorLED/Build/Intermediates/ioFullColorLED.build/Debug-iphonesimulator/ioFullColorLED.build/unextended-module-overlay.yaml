@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/yamamoto/Documents/Xcode/FullColorFrameWork/ioFullColorLED/Build/Products/Debug-iphonesimulator/ioFullColorLED.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/yamamoto/Documents/Xcode/FullColorFrameWork/ioFullColorLED/Build/Intermediates/ioFullColorLED.build/Debug-iphonesimulator/ioFullColorLED.build/unextended-module.modulemap',
+    }]
+  }]
+}
