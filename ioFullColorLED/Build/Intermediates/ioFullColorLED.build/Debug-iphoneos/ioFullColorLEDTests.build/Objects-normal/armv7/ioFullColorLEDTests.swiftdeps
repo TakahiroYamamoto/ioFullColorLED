@@ -4,19 +4,19 @@ provides:
 nominals:
 - "C19ioFullColorLEDTests19ioFullColorLEDTests"
 class-members:
-- "testPerformanceExample"
-- "tearDown"
 - "testExample"
 - "setUp"
+- "testPerformanceExample"
+- "tearDown"
 top-level:
-- "XCTestCase"
 - !private "StringLiteralType"
-- !private "BooleanLiteralType"
 - !private "XCTAssert"
+- !private "BooleanLiteralType"
+- "XCTestCase"
 member-access:
 - "CSo6XCTest"
-- "PSs9AnyObject"
 - !private "C19ioFullColorLEDTests19ioFullColorLEDTests"
+- "PSs9AnyObject"
 - "CSo8NSObject"
 - "CSo10XCTestCase"
 dynamic-lookup:

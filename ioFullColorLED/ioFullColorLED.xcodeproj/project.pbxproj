@@ -419,6 +419,7 @@
 				401781821B93408200628B64 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		401781831B93408200628B64 /* Build configuration list for PBXNativeTarget "ioFullColorLEDTests" */ = {
 			isa = XCConfigurationList;
@@ -427,6 +428,7 @@
 				401781851B93408200628B64 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

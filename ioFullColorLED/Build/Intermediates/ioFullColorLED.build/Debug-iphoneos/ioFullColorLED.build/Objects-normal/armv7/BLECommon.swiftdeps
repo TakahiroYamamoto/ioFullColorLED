@@ -6,21 +6,21 @@ nominals:
 - "OSC24CBPeripheralManagerState"
 class-members:
 top-level:
-- "CBPeripheralManagerState"
 - "CBPeripheralState"
 - "NSString"
-- !private "StringLiteralType"
-- !private "+"
 - "CBCentralManagerState"
+- !private "+"
+- !private "StringLiteralType"
+- "CBPeripheralManagerState"
 member-access:
 - "OSC17CBPeripheralState"
-- "OSC21CBCentralManagerState"
 - "OSC24CBPeripheralManagerState"
+- "OSC21CBCentralManagerState"
 dynamic-lookup:
 cross-module:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Swift.swiftmodule"
-- "/Users/yamamoto/Documents/Xcode/FullColorFrameWork/ioFullColorLED/ioFullColorLED/ioFullColorLED.h"
-- "/Users/yamamoto/Documents/Xcode/FullColorFrameWork/ioFullColorLED/Build/Intermediates/ioFullColorLED.build/Debug-iphoneos/ioFullColorLED.build/unextended-module.modulemap"
+- "/Users/yamamoto/Documents/Xcode/ioFullColorLED/ioFullColorLED/ioFullColorLED/ioFullColorLED.h"
+- "/Users/yamamoto/Documents/Xcode/ioFullColorLED/ioFullColorLED/Build/Intermediates/ioFullColorLED.build/Debug-iphoneos/ioFullColorLED.build/unextended-module.modulemap"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/UIKit.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Foundation.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/32/Darwin.swiftmodule"
